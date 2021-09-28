@@ -6,7 +6,7 @@
 
 My name is **Fernando Domínguez** <br>
 I'm from México :mexico: <br>
-And I'm a passionate Computer Science student pursuing a Software engineer career. <br>
+And I'm a passionate Computer Science student pursuing a Software engineer career.
 I love building things :nerd_face: :hammer_and_wrench:
 
 
