@@ -6,7 +6,7 @@
 
 My name is **Fernando Domínguez** <br>
 I'm from México :mexico: <br>
-And I'm a passionate Computer Science student pursuing a Software engineer career.
+And I'm a passionate Computer Science student pursuing a Software engineer career. <br>
 I love building things :nerd_face: :hammer_and_wrench:
 
 
@@ -19,7 +19,7 @@ I love building things :nerd_face: :hammer_and_wrench:
 ```javascript
 let Fernando = {
   pronouns: "he/him",
-  interests: ["data science","back-end","ML","algorithms","road cycling"],
+  interests: ["dataScience","back-end","ML","algorithms","roadCycling"],
   frontend: [
     "js",
     "react (learning)",
